@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="POS Group">
+            <file>file:/C:/Users/matajari/Documents/NetBeansProjects/matapos_dashboard/web/index.jsp</file>
+            <file>file:/C:/Users/matajari/Documents/NetBeansProjects/matapos_dashboard/web/header.jsp</file>
+            <file>file:/C:/Users/matajari/Documents/NetBeansProjects/matapos_dashboard/web/tes2.jsp</file>
+            <file>file:/C:/Users/matajari/Documents/NetBeansProjects/matapos_dashboard/src/java/com/matapos/servlet/ProductServlet.java</file>
+            <file>file:/C:/Users/matajari/Documents/NetBeansProjects/matapos_dashboard/web/product.jsp</file>
+            <file>file:/C:/Users/matajari/Documents/NetBeansProjects/matapos_dashboard/web/pop_up_add_category.jsp</file>
+            <file>file:/C:/Users/matajari/Documents/NetBeansProjects/matapos_dashboard/web/defaultextend.jsp</file>
+            <file>file:/C:/Users/matajari/Documents/NetBeansProjects/matapos_dashboard/web/sidebar_left.jsp</file>
+        </group>
+        <group name="MOST Group"/>
+        <group name="VA"/>
+        <group name="MIOS"/>
+        <group name="PILKADA"/>
+        <group name="TASPEN"/>
+        <group name="FESFAM">
+            <file>file:/D:/project%20kerja/SUHANDA/BO%20POS/matapos_dashboard/src/java/com/matapos/servlet/LoginServlet.java</file>
+        </group>
+        <group>
+            <file>file:/D:/project%20kerja/SUHANDA/BO%20POS/ridapos_dashboard/web/WEB-INF/web.xml</file>
+            <file>file:/D:/project%20kerja/SUHANDA/BO%20POS/ridapos_dashboard/web/pop_up_add_category.jsp</file>
+        </group>
+        <group name="POS"/>
+        <group name="dashboard"/>
+    </open-files>
+</project-private>
