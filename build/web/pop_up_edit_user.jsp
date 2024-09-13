@@ -263,6 +263,7 @@
 
         $('#table_user').on('click', 'td', function () {
             var $row = $(this).closest("tr");    // Find the row
+//            console.log('ini dta satu row : '+JSON.stringify($row.find(".outlet_id").text()));
             var outlet_id = $row.find(".outlet_id").text(); //find the text
             var user_name = $row.find(".user_name").text(); // Find the text
             var user_id = $row.find(".user_id").text(); // Find the text

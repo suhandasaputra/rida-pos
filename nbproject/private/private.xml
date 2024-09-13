@@ -20,11 +20,9 @@
         <group name="FESFAM">
             <file>file:/D:/project%20kerja/SUHANDA/BO%20POS/matapos_dashboard/src/java/com/matapos/servlet/LoginServlet.java</file>
         </group>
-        <group>
-            <file>file:/D:/project%20kerja/SUHANDA/BO%20POS/ridapos_dashboard/web/WEB-INF/web.xml</file>
-            <file>file:/D:/project%20kerja/SUHANDA/BO%20POS/ridapos_dashboard/web/pop_up_add_category.jsp</file>
-        </group>
         <group name="POS"/>
         <group name="dashboard"/>
+        <group name="lab_karunia"/>
+        <group/>
     </open-files>
 </project-private>
